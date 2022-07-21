@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset ="Utf-8">
+	<meta http-equiv  ="X-UA- Compatible" content="IA=edge">
+	
+system.out.println("This is me first lab ");
